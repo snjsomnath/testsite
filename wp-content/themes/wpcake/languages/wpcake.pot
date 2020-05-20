@@ -1,0 +1,1316 @@
+# Copyright (C) 2019 WPCake
+# This file is distributed under the GNU General Public License v2.0 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCake Theme\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2020-05-18 20:26+0100\n"
+"PO-Revision-Date: 2019-12-18 10:18-0000\n"
+"Last-Translator: WPCake\n"
+"Language-Team: WPCake <support@wpcake.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:5 template-parts/content.php:47
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Comments closed"
+msgstr ""
+
+#: functions.php:90
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:93
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:96
+msgid "Social Media Menu"
+msgstr ""
+
+#: functions.php:162
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:164
+msgid ""
+"Widgets in this area will be displayed in the left or right sidebar area if "
+"you choose the Left or Right Sidebar layout."
+msgstr ""
+
+#: functions.php:174
+msgid "Search Results Sidebar"
+msgstr ""
+
+#: functions.php:176
+msgid "Widgets in this area are used in the search result page."
+msgstr ""
+
+#: functions.php:186
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:188
+msgid "Widgets in this area are used in the first footer region."
+msgstr ""
+
+#: functions.php:197
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:199
+msgid "Widgets in this area are used in the second footer region."
+msgstr ""
+
+#: functions.php:208
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:210
+msgid "Widgets in this area are used in the third footer region."
+msgstr ""
+
+#: functions.php:219
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:221
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr ""
+
+#: functions.php:303
+msgctxt "Name of the black color in the Gutenberg palette"
+msgid "Black"
+msgstr ""
+
+#: functions.php:308
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr ""
+
+#: header.php:37
+msgid "Skip to the content"
+msgstr ""
+
+#: header.php:38
+msgid "Skip to the main menu"
+msgstr ""
+
+#: header.php:102
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:12
+msgid "Want more designs?"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:13
+msgid ""
+"Gain access to an huge extra gallery of world class websites demos to choose "
+"from."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:38
+msgid "Pick a beautiful design"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:39
+msgid ""
+"We've taken our time to create fantastic pre-built free and premium websites "
+"to save you hours and hours of setup time."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:44
+msgid "Customize the base theme"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:45
+msgid ""
+"Although we have designed the theme to be built with a page builder like "
+"Elementor, this theme looks great on its own. Take a look in the options of "
+"the Customizer and see yourself how easy and quick to customize your website "
+"as you wish."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:54
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:55
+msgid "Simply upload and add your own custom logo to your website."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:58
+#: inc/admin/theme-page/sections/content.php:74
+#: inc/admin/theme-page/sections/content.php:90
+#: inc/admin/theme-page/sections/content.php:105
+#: inc/admin/theme-page/sections/content.php:121
+#: inc/admin/theme-page/sections/content.php:137
+#: inc/admin/theme-page/sections/content.php:153
+#: inc/admin/theme-page/sections/content.php:169
+msgid "Go to the option"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:70
+msgid "Add your favicon"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:71
+msgid "The favicon is used as a browser and app icon for your website."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:86
+msgid "Choose your typography"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:87
+msgid "Choose your own typography for any parts of your website."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:101
+msgid "Customize the Top Bar"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:102
+msgid "Set the layout and add your social media menu and secondary menu."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:117
+msgid "Header options"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:118
+msgid "Choose the style for your site header."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:133
+msgid "Sidebar options"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:134
+msgid "Choose the layout for the sidebars."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:149
+msgid "Footer options"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:150
+msgid "Choose the columns number and layout style for the footer area."
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:165
+msgid "Header Color options"
+msgstr ""
+
+#: inc/admin/theme-page/sections/content.php:166
+msgid "Choose the colors you need for the primary header of the site."
+msgstr ""
+
+#: inc/admin/theme-page/sections/header.php:14
+msgid "Your stunning WordPress website is just a few clicks away!"
+msgstr ""
+
+#: inc/admin/theme-page/theme-info.php:33
+msgid "WPCake Theme Options"
+msgstr ""
+
+#: inc/admin/theme-page/theme-info.php:33
+msgid "WPCake Options"
+msgstr ""
+
+#: inc/admin/theme-page/theme-info.php:58
+#, php-format
+msgid ""
+"Thanks for choosing %4$sWPCake%5$s! %3$s Learn how to get the most out of "
+"your new theme on the %1$swelcome screen%2$s."
+msgstr ""
+
+#: inc/admin/theme-page/theme-info.php:59
+msgid "Get started with WPCake"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "WPCake recommends the following plugin: %1$s."
+msgid_plural "WPCake recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer/body-typography.php:11
+msgid "Bold links on hover/active state."
+msgstr ""
+
+#: inc/customizer/body-typography.php:23
+#: inc/customizer/headings-typography.php:11
+#: inc/customizer/nav-typography.php:23
+#: inc/customizer/site-title-typography.php:23
+#: inc/customizer/site-title-typography.php:173
+msgid "Use system fonts"
+msgstr ""
+
+#: inc/customizer/body-typography.php:35
+#: inc/customizer/headings-typography.php:25
+#: inc/customizer/nav-typography.php:36
+#: inc/customizer/site-title-typography.php:36
+#: inc/customizer/site-title-typography.php:186
+msgid "System Fonts"
+msgstr ""
+
+#: inc/customizer/body-typography.php:48
+#: inc/customizer/headings-typography.php:38
+#: inc/customizer/nav-typography.php:49
+#: inc/customizer/site-title-typography.php:49
+#: inc/customizer/site-title-typography.php:199
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/body-typography.php:52
+#: inc/customizer/headings-typography.php:42
+#: inc/customizer/nav-typography.php:53
+#: inc/customizer/site-title-typography.php:53
+#: inc/customizer/site-title-typography.php:203
+msgid "Lighter"
+msgstr ""
+
+#: inc/customizer/body-typography.php:53
+#: inc/customizer/headings-typography.php:43
+#: inc/customizer/nav-typography.php:54
+#: inc/customizer/site-title-typography.php:54
+#: inc/customizer/site-title-typography.php:204
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/body-typography.php:54
+#: inc/customizer/headings-typography.php:44
+#: inc/customizer/nav-typography.php:55
+#: inc/customizer/site-title-typography.php:55
+#: inc/customizer/site-title-typography.php:205
+msgid "Regular"
+msgstr ""
+
+#: inc/customizer/body-typography.php:55
+#: inc/customizer/headings-typography.php:45
+#: inc/customizer/nav-typography.php:56
+#: inc/customizer/site-title-typography.php:56
+#: inc/customizer/site-title-typography.php:206
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer/body-typography.php:56
+#: inc/customizer/headings-typography.php:46
+#: inc/customizer/nav-typography.php:57
+#: inc/customizer/site-title-typography.php:57
+#: inc/customizer/site-title-typography.php:207
+msgid "Bolder"
+msgstr ""
+
+#: inc/customizer/body-typography.php:85
+msgid "Main Font"
+msgstr ""
+
+#: inc/customizer/body-typography.php:86
+#: inc/customizer/headings-typography.php:76
+#: inc/customizer/nav-typography.php:87
+#: inc/customizer/site-title-typography.php:87
+#: inc/customizer/site-title-typography.php:237
+msgid "All Google Fonts sorted by popularity"
+msgstr ""
+
+#: inc/customizer/body-typography.php:112
+msgid "Base Font Size"
+msgstr ""
+
+#: inc/customizer/body-typography.php:115
+#: inc/customizer/class-wpcake-customizer.php:56
+#: inc/customizer/class-wpcake-customizer.php:75
+#: inc/customizer/headings-typography.php:105
+#: inc/customizer/nav-typography.php:116 inc/customizer/nav-typography.php:135
+#: inc/customizer/site-title-typography.php:137
+msgid "Measurement is in pixel."
+msgstr ""
+
+#: inc/customizer/body-typography.php:131
+msgid "Article Line Height"
+msgstr ""
+
+#: inc/customizer/body-typography.php:134
+msgid "Default 1.55"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:53
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:72
+msgid "Logo Top Margin"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:89
+msgid "Small screen logo"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:90
+msgid "This image will replace the main logo on most mobile devices."
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:102
+msgid "Disable site title"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:115
+msgid "Disable site tagline"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:134
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:140 inc/customizer/colors.php:11
+msgid "Global"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:147 inc/customizer/colors.php:65
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:157 inc/customizer/colors.php:230
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:169
+msgid "Hide mini cart from main menu"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:182
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:186
+#: inc/customizer/class-wpcake-customizer.php:202
+#: inc/customizer/class-wpcake-customizer.php:369
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:187
+#: inc/customizer/class-wpcake-customizer.php:203
+#: inc/customizer/class-wpcake-customizer.php:370
+#: inc/metabox/class-wpcake-meta-boxes.php:229
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:188
+#: inc/customizer/class-wpcake-customizer.php:204
+#: inc/customizer/class-wpcake-customizer.php:371
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:198
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:212
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:226
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:229
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:230
+msgid "Large Img"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:231
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:242
+msgid "Disable Header"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:253
+msgid "Set max width for header"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:265
+msgid "Header maximum width"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:301
+msgid "Primary Header Layout"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:306
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:310
+#: inc/customizer/class-wpcake-customizer.php:624
+msgid "Center Layout"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:314
+msgid "Logo on right"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:330
+msgid "Header Bottom Margin"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:350
+#: inc/metabox/class-wpcake-meta-boxes.php:271
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:351
+msgid "The header will not be transparent on mobile screens"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:365
+#: inc/metabox/class-wpcake-meta-boxes.php:223
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:381
+msgid "Custom sidebar for search results page"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:393
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:397
+#: inc/metabox/class-wpcake-meta-boxes.php:243
+msgid "Full Width / Contained"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:398
+#: inc/metabox/class-wpcake-meta-boxes.php:244
+msgid "Full Width / Stretched"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:410
+msgid "Set maximum width"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:436
+msgid "Disable entry title"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:448
+msgid "Disable featured image"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:456
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:461
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:467
+msgid "Site Title & Description"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:473
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:479
+msgid "Site menu"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:514 inc/customizer/colors.php:447
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:526 inc/customizer/colors.php:331
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:544
+msgid "Footer widgets section"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:549
+#: inc/customizer/class-wpcake-customizer.php:628
+#: inc/customizer/class-wpcake-customizer.php:738
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:553
+msgid "Four column"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:568
+msgid "Widget section border width"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:597
+msgid "Footer Bar"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:615
+msgid "Footer Copyright Area Layout"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:620
+msgid "Split Layout"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:643
+msgid "Footer top border width"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:673
+msgid "Transparent Footer"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:686
+msgid "Copyright Section 1 Text"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:691
+#: inc/customizer/class-wpcake-customizer.php:736
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:692
+#: inc/customizer/class-wpcake-customizer.php:737
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:702
+#: inc/customizer/class-wpcake-customizer.php:748
+msgid "Custom Text"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:704
+#: inc/customizer/class-wpcake-customizer.php:750
+msgid "Allows for basic HTML"
+msgstr ""
+
+#: inc/customizer/class-wpcake-customizer.php:731
+msgid "Copyright Section 2 Text"
+msgstr ""
+
+#: inc/customizer/colors.php:5
+msgid "Colors &amp; Background"
+msgstr ""
+
+#: inc/customizer/colors.php:24 inc/customizer/colors.php:80
+#: inc/customizer/colors.php:415 inc/customizer/colors.php:484
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/colors.php:46 inc/customizer/colors.php:115
+#: inc/customizer/colors.php:367 inc/customizer/colors.php:542
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer/colors.php:57
+msgid "Link Active / Hover color"
+msgstr ""
+
+#: inc/customizer/colors.php:103 inc/customizer/site-title-typography.php:12
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/colors.php:126 inc/customizer/colors.php:162
+msgid "Link Active / Hover Color"
+msgstr ""
+
+#: inc/customizer/colors.php:139
+msgid "Top Level Menu"
+msgstr ""
+
+#: inc/customizer/colors.php:151
+msgid "Link / Text color"
+msgstr ""
+
+#: inc/customizer/colors.php:174
+msgid "Submenu"
+msgstr ""
+
+#: inc/customizer/colors.php:186
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/customizer/colors.php:187 inc/customizer/colors.php:209
+#: inc/customizer/colors.php:221
+msgid "Not used on mobile screens"
+msgstr ""
+
+#: inc/customizer/colors.php:208
+msgid "Submenu Link / Text Color"
+msgstr ""
+
+#: inc/customizer/colors.php:220
+msgid "Submenu Link  Active / Hover Color"
+msgstr ""
+
+#: inc/customizer/colors.php:242
+msgid "Cart Icon color"
+msgstr ""
+
+#: inc/customizer/colors.php:265
+msgid "Shop button color"
+msgstr ""
+
+#: inc/customizer/colors.php:288
+msgid "Shop button text color"
+msgstr ""
+
+#: inc/customizer/colors.php:311
+msgid "Shop sale color"
+msgstr ""
+
+#: inc/customizer/colors.php:343
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer/colors.php:355 inc/customizer/colors.php:530
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer/colors.php:378
+msgid "Link Hover color"
+msgstr ""
+
+#: inc/customizer/colors.php:390 inc/customizer/colors.php:459
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/colors.php:402 inc/customizer/colors.php:471
+msgid "Top border color"
+msgstr ""
+
+#: inc/customizer/colors.php:436 inc/customizer/colors.php:505
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/colors.php:518
+msgid "Font colors"
+msgstr ""
+
+#: inc/customizer/colors.php:553
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/headings-typography.php:75
+msgid "Headings Font"
+msgstr ""
+
+#: inc/customizer/headings-typography.php:102
+msgid "Bottom Margin"
+msgstr ""
+
+#: inc/customizer/nav-typography.php:11
+msgid "Color change only on hover/active state"
+msgstr ""
+
+#: inc/customizer/nav-typography.php:86
+msgid "Main Menu Font"
+msgstr ""
+
+#: inc/customizer/nav-typography.php:113
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/nav-typography.php:132
+msgid "Top Margin"
+msgstr ""
+
+#: inc/customizer/site-title-typography.php:86
+msgid "Site Title Font"
+msgstr ""
+
+#: inc/customizer/site-title-typography.php:114
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/customizer/site-title-typography.php:117
+#: inc/customizer/site-title-typography.php:267
+msgid "Measurement is in em."
+msgstr ""
+
+#: inc/customizer/site-title-typography.php:134
+msgid "Title Bottom Margin"
+msgstr ""
+
+#: inc/customizer/site-title-typography.php:162
+msgid "Site Description"
+msgstr ""
+
+#: inc/customizer/site-title-typography.php:236
+msgid "Site Description Font"
+msgstr ""
+
+#: inc/customizer/site-title-typography.php:264
+msgid "Description Font Size"
+msgstr ""
+
+#: inc/customizer/top-bar.php:7
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer/top-bar.php:18
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer/top-bar.php:29
+msgid "Enable Full Width"
+msgstr ""
+
+#: inc/customizer/top-bar.php:40
+msgid "Show on Devices"
+msgstr ""
+
+#: inc/customizer/top-bar.php:44
+msgid "Show on all devices"
+msgstr ""
+
+#: inc/customizer/top-bar.php:45
+msgid "Show on desktop only"
+msgstr ""
+
+#: inc/customizer/top-bar.php:46
+msgid "Show on tablets and desktop"
+msgstr ""
+
+#: inc/customizer/top-bar.php:57
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/top-bar.php:61
+msgid "Topbar menu left wp&amp; social menu Right"
+msgstr ""
+
+#: inc/customizer/top-bar.php:62
+msgid "Social menu left &amp; Topbar menu right"
+msgstr ""
+
+#: inc/customizer/top-bar.php:63
+msgid "All Center content"
+msgstr ""
+
+#: inc/extras.php:22
+msgid "WPCake"
+msgstr ""
+
+#: inc/integrations/woocommerce.php:25 inc/integrations/woocommerce.php:74
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/integrations/woocommerce.php:26 inc/integrations/woocommerce.php:75
+msgid "Start shopping"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:157
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:226
+#: inc/metabox/class-wpcake-meta-boxes.php:242
+msgid "Customizer Setting"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:227
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:228
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:239
+msgid "Content Layout"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:254
+msgid "Disable Sections"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:262
+msgid "Disable Primary Header"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:278
+msgid "Disable Title"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:285
+msgid "Disable Featured Image"
+msgstr ""
+
+#: inc/metabox/class-wpcake-meta-boxes.php:292
+msgid "Disable Footer"
+msgstr ""
+
+#: index.php:54
+msgid "Newer posts"
+msgstr ""
+
+#: index.php:55
+msgid "Older posts"
+msgstr ""
+
+#: template-parts/content.php:27
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content.php:47
+msgid "Add Comment"
+msgstr ""
+
+#: template-parts/content.php:47
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/content.php:47
+msgid "Comments off"
+msgstr ""
+
+#: template-parts/content.php:52
+msgid "In"
+msgstr ""

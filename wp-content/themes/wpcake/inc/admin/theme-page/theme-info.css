@@ -1,0 +1,193 @@
+.wpcake-admin-wrap{
+  margin-left: -20px;
+}
+.wpcake-theme-page-header{
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+  clear: both;
+  overflow: hidden;
+  padding: 20px;
+}
+.wpcake-container{
+  max-width: 920px;
+  width: 100%;
+  margin: 0 auto;
+}
+.wpcake-theme-title{
+  float: left;
+}
+.wpcake-theme-title a{
+  text-decoration: none;
+  color: #888!important;
+}
+.wpcake-top-links{
+  float: right;
+  padding-top: 20px;
+}
+.wpcake-theme-icon{
+  max-width: 140px;
+}
+.wpcake-theme-version{
+  background-color: #e5e5e5;
+  border-radius: 3px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 10px;
+  padding: 2px 7px;
+}
+.wpcake-settings{
+  padding: 20px;
+}
+.wpcake-settings:after,
+.options-inner:after{
+  content: '';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  zoom: 1;
+}
+.wpcake-sidebar{
+  float: right;
+  width: 23%;
+  margin-top: 30px;
+}
+.wpcake-main {
+  float: left;
+  width: 75%;
+  margin-top: 20px;
+}
+.wpcake-title{
+  font-size: 26px;
+  line-height: 1.6;
+  margin: 0 0 3px 0;
+}
+.options-inner{
+  margin-left: -10px;
+
+}
+.options-inner *{
+  box-sizing: border-box;
+}
+.column-wrap{
+  padding: 10px;
+  width: 25%;
+  margin-bottom: 20px;
+  float:left;
+}
+.column-inner{
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 240px;
+  position: relative;
+}
+.column-inner .title{
+  border-bottom: 1px solid #dadada;
+  padding-bottom: 16px;
+}
+.bottom-column{
+  position: absolute;
+  bottom: 30px;
+}
+@media all and (max-width: 1200px){
+  .column-wrap{
+    width: 33.33333%;
+  }
+}
+@media all and (max-width: 790px){
+  .wpcake-sidebar,
+  .wpcake-main{
+    float: none;
+    width: 100%;
+  }
+  .column-wrap{
+    width: 50%;
+  }
+}
+@media all and (max-width: 400px){
+  .column-wrap{
+    float: none;
+    width: 100%;
+  }
+}
+
+.two-columns .column-wrap{
+  width: 50%;
+}
+
+.wpcake-sidebar .wpcake-pro{
+  width: 100%;
+  float: none;
+  margin-bottom: 0;
+}
+.wpcake-sidebar .wpcake-pro .column-inner{
+  height: auto;
+}
+.wpcake-starter-sites-img{
+  max-width: 100%;
+}
+.wpcake-pro .bottom-column{
+  position: relative;
+  text-align: center;
+  padding: 20px 0;
+  bottom: auto;
+}
+.wpcake-pro .bottom-column .button-dark{
+  display: block;
+  background-color: #1d2428;
+  color: #fff;
+  margin-top: 0;
+  border: none;
+  padding: 10px 0;
+  height: auto;
+}
+
+.bottom-column .dashicons-yes:before{
+  color: green;
+}
+.wpcake-buttons{
+  padding: 10px;
+}
+.wpcake-buttons .wpcake-button{
+  text-align: center;
+  border: none;
+  display: block;
+  height: auto;
+  padding: 9px;
+  color: #fff;
+}
+.wpcake-buttons .wpcake-button:hover{
+  color: #fff;
+}
+.wpcake-buttons .wpcake-yt-btn,
+.wpcake-buttons .wpcake-yt-btn:active{
+  width: 100%;
+  background: #d45252;
+  margin: 0 0 18px;
+}
+.wpcake-buttons .wpcake-yt-btn:hover,
+.wpcake-buttons .wpcake-yt-btn:active{
+  background: #b33f3f;
+}
+.wpcake-buttons .wpcake-doc-btn,
+.wpcake-buttons .wpcake-support-btn{
+  float:left;
+  width: 48%;
+}
+.wpcake-buttons .wpcake-doc-btn,
+.wpcake-buttons .wpcake-doc-btn:active{
+  margin-right: 2%;
+  background: #334dab;
+}
+.wpcake-buttons .wpcake-doc-btn:hover{
+  background: #1d3179;
+}
+.wpcake-buttons .wpcake-support-btn,
+.wpcake-buttons .wpcake-support-btn:active{
+  margin-left: 2%;
+  background: #2379ac;
+}
+.wpcake-buttons .wpcake-support-btn:hover{
+  background: #145175;
+}

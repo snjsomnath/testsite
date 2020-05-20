@@ -1,0 +1,61 @@
+{
+ "items": [
+    {
+     "family": "Helvetica, Arial, sans-serif"
+    },
+    {
+     "family": "Arial Black, Gadget, sans-serif"
+    },
+    {
+     "family": "Bookman Old Style, serif"
+    },
+    {
+     "family": "Comic Sans MS, cursive"
+    },
+    {
+     "family": "Courier, monospace"
+    },
+    {
+     "family": "Georgia, serif"
+    },
+    {
+     "family": "Garamond, serif"
+    },
+    {
+     "family": "Impact, Charcoal, sans-serif"
+    },
+    {
+     "family": "Lucida Console, Monaco, monospace"
+    },
+    {
+     "family": "Lucida Sans Unicode, Lucida Grande, sans-serif"
+    },
+    {
+     "family": "MS Sans Serif, Geneva, sans-serif"
+    },
+    {
+     "family": "MS Serif, New York, sans-serif"
+    },
+    {
+     "family": "Palatino Linotype, Book Antiqua, Palatino, serif"
+    },
+    {
+     "family": "Tahoma, Geneva, sans-serif"
+    },
+    {
+     "family": "Times New Roman, Times, serif"
+    },
+    {
+     "family": "Trebuchet MS, Helvetica, sans-serif"
+    },
+    {
+     "family": "Verdana, Geneva, sans-serif"
+    },
+    {
+     "family": "Paratina Linotype"
+    },
+    {
+     "family": "Trebuchet MS"
+    }
+  ]
+}
